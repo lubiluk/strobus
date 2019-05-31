@@ -23,11 +23,13 @@
 
 1. Zainstaluj apktool korzystając z instrukcji ze strony: https://ibotpeaches.github.io/Apktool/install/
 
-    Użyj `~/.local/bin` jako ścieżki docelowej. (Możliwe, że trzeba stworzyć katalog `bin`)
+    Użyj `~/.local/bin` jako docelowej ścieżki instalacji.
 
 2. Otwórz Android Studio. Stwórz nowy projekt bez zmieniania czegokolwiek.
 
 3. Otwórz Virtual Device Manager, stwórz Nexus 5X z Android 8 i uruchom go.
 
-4. Przeciągnij strobus.apk na symulator w celu instalacji aplikacji. (Aplikacja nazywa się "Strobus")
+4. Przeciągnij strobus.apk na symulator w celu instalacji aplikacji. 
+
+5. Uruchom aplikację (Strobus).
 
